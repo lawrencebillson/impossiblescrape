@@ -1,0 +1,18 @@
+URL:
+https://www.wgea.gov.au/public/reports
+
+Content:
+term_id=1644&search=public_report&reporting_period=all&industry=62&legal_name=&abn=&state=all&emps=0&pageNum=2
+
+Headers:
+Host: www.wgea.gov.au
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:55.0) Gecko/20100101 Firefox/55.0
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.wgea.gov.au/report/public-reports
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Content-Length: 110
+Cookie: has_js=1; ZoomStatus=1; _ga=GA1.3.1942277186.1505290257; _gid=GA1.3.826666986.1505290257; _gat=1
+Connection: keep-alive
